@@ -1,2 +1,4 @@
 # MonopolyPlayerStrategy
 Monopoly is a 2-4 player risk based game with the end goal of accumulating the most wealth through purchasing properties. This project focused on attempting to find the ideal level of risk taking for an individual in order to optimise their chance of winning.
+
+The project proposed the assumption that a player has a level of riskiness (ie their likelihood of taking a risk) which may be influenced by a variety of factors. This riskiness was assumed to be influenced by factors like the current risk on the board (ie the total rent they could pay on each square) and their financial position. Each player was given a weighted value to their money which would influence how likely they were to part with it. We also assumed that different people would have different bounds on how risky they would play. 
